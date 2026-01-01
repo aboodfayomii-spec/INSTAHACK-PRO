@@ -2,7 +2,7 @@
 
 An advanced Instagram OSINT and Security Testing tool with built-in Proxy rotation.
 
-![Main Screen](in.jpg)
+<img src="in.jpg" width="100%">
 
 ## ✨ Features
 * **Proxy Support:** Handles over 38,000 proxies to avoid IP blocking.
