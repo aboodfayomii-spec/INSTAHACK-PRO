@@ -13,6 +13,9 @@ An advanced Instagram OSINT and Security Testing tool with built-in Proxy rotati
 ## 🛠️ Installation
 ```bash
 git clone [https://github.com/aboodfayomii-spec/INSTAHACK-PRO.git](https://github.com/aboodfayomii-spec/INSTAHACK-PRO.git)
+
 cd INSTAHACK-PRO
+
 pip install -r requirements.txt
+
 python3 instahack.py
