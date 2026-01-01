@@ -1,8 +1,8 @@
 # 🚀 INSTAHACK-PRO v2.3.5
 
-An advanced Instagram OSINT and Security Testing tool with built-in Proxy rotation.
+An advanced Instagram OSINT and Security Testing tool with built-in Proxy rotation
 
-<img src="pro.png" width="35%">
+![InstaHack Screenshot](pro.png)
 
 ## ✨ Features
 * **Proxy Support:** Handles over 38,000 proxies to avoid IP blocking.
