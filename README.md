@@ -2,7 +2,7 @@
 
 An advanced Instagram OSINT and Security Testing tool with built-in Proxy rotation.
 
-![InstaHack Screenshot](insta.jpg)
+![InstaHack Screenshot](insta.png)
 
 ## ✨ Features
 * **Proxy Support:** Handles over 38,000 proxies to avoid IP blocking.
